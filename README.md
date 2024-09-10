@@ -1,6 +1,6 @@
 # Git és Projektek Gyakorlása
 
-!(Github) [https://github.com/Marietta7747/Gyakorlas/blob/master/github_PNG40.png]
+![Github](https://github.com/Marietta7747/Gyakorlas/blob/master/github_PNG40.png)
 
 
 ## Lépések
