@@ -1,6 +1,6 @@
 # Git és Projektek Gyakorlása
 
-<img src="https://github.com/Marietta7747/Gyakorlas/blob/master/github_PNG40.png" alt="Github" width="200"/>
+<img src="https://github.com/Marietta7747/Gyakorlas/blob/master/github.png" alt="Github" width="200"/>
 
 
 
