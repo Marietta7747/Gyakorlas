@@ -19,7 +19,7 @@
 
 ## <p style=" text-align: center "> Kaposvári Szakképzési Centrum <br> Noszlopy Gáspár Közgazdasági Technikum 
 <br><br><br><br><br><br><br>
-### <p style="text-align: center">Ticket</p> 
+# <p style="text-align: center">Ticket</p> 
 <br><br><br><br><br><br><br>
 
  *Szoftverfejlesztő és tesztelő képzés*
